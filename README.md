@@ -2,7 +2,7 @@
 C code can be execute by Keil C, Python code can be execute by PyCharm or Spyder.
 
 Python UI is created by using PyQt5
-To processing image and video\n
+To processing image and video
 
   First, using function to load image or video.
   
